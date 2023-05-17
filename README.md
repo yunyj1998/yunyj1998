@@ -10,10 +10,10 @@
 
 ### [👩‍💻 Notion 포트폴리오](https://www.notion.so/MR-_YUN-100d23b1a85b42d2b9e29262f02e9011)
 
-#### Mobile App Developer 
+#### Data analysts 
 
 **1998.12.29**  
-email - k1miso012@gmail.com  
+email - yunyj1998@gmail.com  
 github - https://github.com/yunyj1998  
 blog - https://blog.naver.com/yunyj1998   
 
@@ -32,10 +32,10 @@ blog - https://blog.naver.com/yunyj1998
   2-1. [2023](#2023)  
   
 3. [프로젝트 상세](#프로젝트-상세)  
-  3-1. [데이터 분석] [옛다](#ios-옛다)  
-  3-2. [데이터 분석] [아무계](#ios-아무계)  
-  3-3. [데이터 분석] [Life.M](#ios-lifem)  
-  3-4. [개인 프로젝트] [Pro-Miss](#android-ios-server-pro-miss)  
+  3-1. [데이터 분석] [소년범죄](#Data Analytics)
+  3-2. [데이터 분석] [가상회사]#Data Analytics)
+  3-3. [데이터 분석] [Store sales(#Machine learning data analysis)  
+  3-4. [개인 프로젝트] [나만의 인공지능 만들기](#Simple AI)  
 
   
 <br><br><br>
