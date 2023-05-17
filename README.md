@@ -34,7 +34,8 @@ blog - https://blog.naver.com/yunyj1998
 3. [프로젝트 상세](#프로젝트-상세)  
   3-1. [데이터 분석] [소년범죄](#Data Analytics)
   3-2. [데이터 분석] [가상회사](#Data Analytics)
-  3-3. [데이터 분석] [Store sales](#Machine learning data analysis)  
-  3-4. [개인 프로젝트] [나만의 인공지능 만들기](#Simple AI)  
+  3-3. [데이터 분석] [Store sales](#Machine learning data analysis)
+  3-4. [개인 프로젝트] [나만의 인공지능 만들기](#Simple AI)
+ 
 
   
