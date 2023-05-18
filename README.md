@@ -9,7 +9,7 @@
 
 
 <div align=center><h1>📚 STACKS</h1></div>   
-[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](#)
+ [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](#)
 [![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)](#)
 [![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)](#)
    </samp>
