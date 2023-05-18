@@ -5,10 +5,7 @@
   <samp>
     Hi, I'm Saad! 👋 <br>
     🔥 Software Developer grinding hard to make something cool  <br>
-  Favorite Tech:   ... <br>
-[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](#)
-[![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)](#)
-[![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)](#) 
+  Favorite Tech:   ... <br> 
   
   </samp>
 </p>
