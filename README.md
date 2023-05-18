@@ -4,7 +4,7 @@
 <p align="center">
   <samp>
     Hi, I'm yong Jun! 👋 <br>
-    🔥 Software Developer grinding hard to make something cool  <br>
+    🔥 20-somethings who want to be data analysts  <br>
 
    
  [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](#)
