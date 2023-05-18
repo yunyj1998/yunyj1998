@@ -5,12 +5,11 @@
   <samp>
     Hi, I'm Saad! 👋 <br>
     🔥 Software Developer grinding hard to make something cool  <br>
-    :sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
-    :email:	saadpasta70@gmail.com <br>
-    :art: Portfolio: https://saadpasta.github.io <br>
-                Twitter: https://twitter.com/saadpastadev?lang=en<br>
-  :briefcase: Building https://www.refactornow.dev/ - Learn the Art of Refactoring <br>
+  Favorite Tech: [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](#)
+[![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)](#)
+[![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)](#)  ... <br>
 
+  
   </samp>
 </p>
 
