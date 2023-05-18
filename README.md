@@ -3,7 +3,7 @@
  <hr></hr>
 <p align="center">
   <samp>
-    Hi, I'm Saad! 👋 <br>
+    Hi, I'm yong Jun! 👋 <br>
     🔥 Software Developer grinding hard to make something cool  <br>
 
    
